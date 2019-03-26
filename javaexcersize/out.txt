@@ -1,0 +1,102 @@
+\代码\java\chapter08
+\代码\java\chapter08\.classpath
+\代码\java\chapter08\.project
+\代码\java\chapter08\.settings
+\代码\java\chapter08\.settings\org.eclipse.jdt.core.prefs
+\代码\java\chapter08\bin
+\代码\java\chapter08\bin\com
+\代码\java\chapter08\bin\com\qst
+\代码\java\chapter08\bin\com\qst\chapter08
+\代码\java\chapter08\bin\com\qst\chapter08\Base64Demo.class
+\代码\java\chapter08\bin\com\qst\chapter08\ChildP.class
+\代码\java\chapter08\bin\com\qst\chapter08\ConstructorMethodReferenceDemo.class
+\代码\java\chapter08\bin\com\qst\chapter08\FIConverter.class
+\代码\java\chapter08\bin\com\qst\chapter08\FunctionalInterfaceDemo$1.class
+\代码\java\chapter08\bin\com\qst\chapter08\FunctionalInterfaceDemo.class
+\代码\java\chapter08\bin\com\qst\chapter08\IDefaultStatic.class
+\代码\java\chapter08\bin\com\qst\chapter08\IDefaultStaticDemo$1.class
+\代码\java\chapter08\bin\com\qst\chapter08\IDefaultStaticDemo$2.class
+\代码\java\chapter08\bin\com\qst\chapter08\IDefaultStaticDemo.class
+\代码\java\chapter08\bin\com\qst\chapter08\LambdaDemo.class
+\代码\java\chapter08\bin\com\qst\chapter08\LambdaDemo1.class
+\代码\java\chapter08\bin\com\qst\chapter08\LambdaDemo2$1.class
+\代码\java\chapter08\bin\com\qst\chapter08\LambdaDemo2.class
+\代码\java\chapter08\bin\com\qst\chapter08\LambdaDemo3$1.class
+\代码\java\chapter08\bin\com\qst\chapter08\LambdaDemo3.class
+\代码\java\chapter08\bin\com\qst\chapter08\MethodReferenceDemo.class
+\代码\java\chapter08\bin\com\qst\chapter08\OptionalDemo.class
+\代码\java\chapter08\bin\com\qst\chapter08\ParallelArraysDemo.class
+\代码\java\chapter08\bin\com\qst\chapter08\Product.class
+\代码\java\chapter08\bin\com\qst\chapter08\ProductFactory.class
+\代码\java\chapter08\bin\com\qst\chapter08\Status.class
+\代码\java\chapter08\bin\com\qst\chapter08\StreamDemo.class
+\代码\java\chapter08\bin\com\qst\chapter08\Task.class
+\代码\java\chapter08\src
+\代码\java\chapter08\src\com
+\代码\java\chapter08\src\com\qst
+\代码\java\chapter08\src\com\qst\chapter08
+\代码\java\chapter08\src\com\qst\chapter08\Base64Demo.java
+\代码\java\chapter08\src\com\qst\chapter08\ConstructorMethodReferenceDemo.java
+\代码\java\chapter08\src\com\qst\chapter08\FIConverter.java
+\代码\java\chapter08\src\com\qst\chapter08\FunctionalInterfaceDemo.java
+\代码\java\chapter08\src\com\qst\chapter08\IDefaultStatic.java
+\代码\java\chapter08\src\com\qst\chapter08\IDefaultStaticDemo.java
+\代码\java\chapter08\src\com\qst\chapter08\LambdaDemo.java
+\代码\java\chapter08\src\com\qst\chapter08\LambdaDemo1.java
+\代码\java\chapter08\src\com\qst\chapter08\LambdaDemo2.java
+\代码\java\chapter08\src\com\qst\chapter08\LambdaDemo3.java
+\代码\java\chapter08\src\com\qst\chapter08\MethodReferenceDemo.java
+\代码\java\chapter08\src\com\qst\chapter08\OptionalDemo.java
+\代码\java\chapter08\src\com\qst\chapter08\ParallelArraysDemo.java
+\代码\java\chapter08\src\com\qst\chapter08\StreamDemo.java
+chapter08
+|_________.classpath
+|_________.project
+|_________.settings
+                  |_org.eclipse.jdt.core.prefs
+|_________bin
+            |_com
+               |_qst
+                  |_chapter08
+                           |_Base64Demo.class
+                           |_ChildP.class
+                           |_ConstructorMethodReferenceDemo.class
+                           |_FIConverter.class
+                           |_FunctionalInterfaceDemo$1.class
+                           |_FunctionalInterfaceDemo.class
+                           |_IDefaultStatic.class
+                           |_IDefaultStaticDemo$1.class
+                           |_IDefaultStaticDemo$2.class
+                           |_IDefaultStaticDemo.class
+                           |_LambdaDemo.class
+                           |_LambdaDemo1.class
+                           |_LambdaDemo2$1.class
+                           |_LambdaDemo2.class
+                           |_LambdaDemo3$1.class
+                           |_LambdaDemo3.class
+                           |_MethodReferenceDemo.class
+                           |_OptionalDemo.class
+                           |_ParallelArraysDemo.class
+                           |_Product.class
+                           |_ProductFactory.class
+                           |_Status.class
+                           |_StreamDemo.class
+                           |_Task.class
+|_________src
+            |_com
+               |_qst
+                  |_chapter08
+                           |_Base64Demo.java
+                           |_ConstructorMethodReferenceDemo.java
+                           |_FIConverter.java
+                           |_FunctionalInterfaceDemo.java
+                           |_IDefaultStatic.java
+                           |_IDefaultStaticDemo.java
+                           |_LambdaDemo.java
+                           |_LambdaDemo1.java
+                           |_LambdaDemo2.java
+                           |_LambdaDemo3.java
+                           |_MethodReferenceDemo.java
+                           |_OptionalDemo.java
+                           |_ParallelArraysDemo.java
+                           |_StreamDemo.java
